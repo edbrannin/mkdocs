@@ -48,10 +48,13 @@ DEFAULT_CONFIG = {
     'include_nav': None,
     'include_next_prev': None,
 
+    # Markdown
+    'markdown_extensions': (),
+
     # To Do
     'include_search': False,
     'include_404': False,
-    'include_sitemap': False
+    'include_sitemap': False,
 }
 
 
